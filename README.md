@@ -24,7 +24,7 @@ Here are some of my recent projects:
 ---
 
 ## 📊 GitHub Stats  
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-253&show_icons=true&theme=tokyonight)  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-253&show_icons=true&theme=tokyonight&cache_seconds=3600)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-253&layout=compact&theme=tokyonight)  
 
 ---
