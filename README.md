@@ -34,7 +34,7 @@ Here are some of my recent projects:
 ## 🎯 My Next Steps  
 - Improve **HTML & CSS** (responsive layouts, accessibility, best practices)  
 - Get comfortable with **JavaScript** (DOM manipulation, small apps)  
-- Start learning **React** and **Node.js** later this year  
+- Improve **React** , **Node.js** and **typescript** later this year  
 
 ---
 
